@@ -37,7 +37,9 @@ Parola conține doar: litere mici, litere mari (ambele fără diacritice) și ci
 # **Materiale utilizate pentru documentare**
 
 
-[WIKIPEDIA XOR_CHIPER](https://en.wikipedia.org/wiki/XOR_cipher)
+[WIKIPEDIA XOR_CHIPER](https://en.wikipedia.org/wiki/XOR_cipher) </br>
+[TEXTUL UTILIZAT](https://ro.wikisource.org/wiki/Geniu_pustiu) </br>
+[PRELUCRAREA TEXTULUI](https://www.curs-valutar-bnr.ro/inlocuire-diacritice-dintr-un-text) </br>
 
 # **Instructiuni de utilizare**
 ```
@@ -45,7 +47,7 @@ Parola conține doar: litere mici, litere mari (ambele fără diacritice) și ci
 Limbaj de programare utilizat -> Python
 
 
-Versiunea programului -> 3.9.9
+Versiunea limbajului -> 3.9.9
 ```
 
 >Rularea Programului

@@ -1,3 +1,12 @@
+# **Numele echipei noastre: three haXORs**
+<p>
+  Echipa adversă: DreamTeam
+  </p>
+  <p>
+  Parola echipei adverse: rT2w8eMZENRQWXh
+
+</p>
+
 <p align="center">
 <b>  <img src="https://media4.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.webp?cid=ecf05e470gsglrax28ysr6clp7dg07b331q4dzo0yrdv14rs&rid=giphy.webp&ct=g" width="40" height="40" /> XOR ENCRYPTION <img src="https://media4.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.webp?cid=ecf05e470gsglrax28ysr6clp7dg07b331q4dzo0yrdv14rs&rid=giphy.webp&ct=g" width="40" height="40" />   </b>
 </p>

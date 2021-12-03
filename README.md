@@ -42,18 +42,15 @@ Parola conține doar: litere mici, litere mari (ambele fără diacritice) și ci
 # **Instructiuni de utilizare**
 ```
 
-Programul folosit pentru cod -> Python
+Limbaj de programare utilizat -> Python
 
-```
->[PYTHON 3.10.0](https://www.python.org/downloads/)
-```
 
-Versiunea programului -> 3.10.0
+Versiunea programului -> 3.9.9
 ```
 
 >Rularea Programului
 
-Programul va fi rula din consola folosind urmatoarele comenzi:
+Programul va fi rula din terminal folosind urmatoarele comenzi:
 ```
 python3 encrypt.py <parola> input.txt output
 ```
@@ -61,7 +58,7 @@ python3 encrypt.py <parola> input.txt output
 python3 decrypt.py <parola> output input_recuperat.txt
 ```
 <b> -> Input.txt si input_recuperat.txt sunt numele fisierelor folosite in acest program, input.txt fiind textul original, iar input_recuperat.txt fiind textul decodat. </b> </br>
-<b> -> Aceste nume pot fi alese personal, dar fisierul de input trebuie creat. </b>
+<b> -> Aceste nume pot fi alese personal, dar fisierul de input trebuie creat in prealabil. </b>
 
 
 # **Cuprins**

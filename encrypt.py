@@ -27,14 +27,18 @@ def verificare_parola(parola):
             print("Password must have at least one digit, one lowercase and one uppercase letter.")
             return 0
 
-parola = sys.argv[1]
-nume_input = sys.argv[2]
-nume_output = sys.argv[3]
-parola_lista = [x for x in parola]
 
-if verificare_parola(parola):
-    encrypt(parola_lista)
-else: exit(0)
+if len(sys.argv) != 4:
+    print("The command must be \"python3 encrypt.py <password> input.txt output\" ")
+    exit(0)
+else:
+    parola = sys.argv[1]
+    nume_input = sys.argv[2]
+    nume_output = sys.argv[3]
+    parola_lista = [x for x in parola]
+    if verificare_parola(parola):
+        encrypt(parola_lista)
+    else: exit(0)
 
 
 

@@ -1,5 +1,5 @@
 f=open("output","rb")
-g=open("parola.txt","w")
+g=open("parole.txt","w")
 criptat=f.read()
 f.close()
 criptat=criptat[15:30]
@@ -36,6 +36,8 @@ def parolacreata_testata():
                                                                 if nrc<min1:
                                                                     min1=nrc
                                                                     parolab=parola.decode()
+                                                                if nrc==0:
+                                                                    g.write(str(parolab))
 parolacreata_testata()
-g.write(parolab)
-g.close()
+g.write(str(parolab))
+print(parolab)

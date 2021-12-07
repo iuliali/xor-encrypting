@@ -1,11 +1,12 @@
 # **Numele echipei noastre: three haXORs**
-<p>
-  Echipa adversă: DreamTeam
-  </p>
+
+  Echipa adversă: DreamTeam </br>
+  [Pagina de github a echipei adverse](https://github.com/iRaduS/ASC-Project-0x00)
+
   <p>
   Parola echipei adverse: rT2w8eMZENRQWXh
+  </p>
 
-</p>
 
 <p align="center">
 <b>  <img src="https://media4.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.webp?cid=ecf05e470gsglrax28ysr6clp7dg07b331q4dzo0yrdv14rs&rid=giphy.webp&ct=g" width="40" height="40" /> XOR ENCRYPTION <img src="https://media4.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.webp?cid=ecf05e470gsglrax28ysr6clp7dg07b331q4dzo0yrdv14rs&rid=giphy.webp&ct=g" width="40" height="40" />   </b>
@@ -76,7 +77,7 @@ python3 decrypt.py <parola> output input_recuperat.txt
 
 >Primul algoritm
 
-Codul se afla in hack_prima_parte.py </br>
+Codul se afla in hack_prima_parte.py </b>
 Am folosit proprietatea operatiei de xor si am aflat parola facand xor intre input si output, utilizand functia pe care colegii din echipa adversa au realizat-o pentru criptare cu mici modificari. Cum stiam ca parola poate avea maxim 15 caractere, am luat doar primele 15 caractere din rezultat si le-am afisat. Daca parola avea mai putin de 15 caractere, la finalul parolei s-ar fi repetat primele caractere, iar astfel ne putem da seama de parola folosita. </b>
 
 

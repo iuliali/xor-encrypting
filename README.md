@@ -85,8 +85,8 @@ Am folosit proprietatea operatiei de xor si am aflat parola facand xor intre inp
 
 Cel de-al doilea algoritm genereaza toate cheile posibile si le testeaza cu un sir de 15 caractere din fisierul output. </b>
 Dupa aceea alege cele mai bune chei, care au cel mai mic numar de caractere decodate gresit, si le salveaza. </b>
-Singurul lucru ramas este sa testam care dintre cheile alese este crea corecta, folosindu-le in algoritmul de decodare si comparand fisierul output cu fisierul input. (cu testele puse la dispozitie de colegii din echipa adversa) </b>
-
+Singurul lucru ramas este sa testam care dintre cheile alese este crea corecta, folosindu-le in algoritmul de decodare si comparand fisierul output cu fisierul input. (cu testele puse la dispozitie de colegii din echipa adversa) </br>
+La cel de-al doilea algoritm ne-am lovit de problema ca liniile de dialog din textul echipei adversare erau practic un caracter special, care nu era codat doar pe un byte ca restul caracterelor: "—" EM DASH b'\xe2\x80\x94'. </br>
 
 # **Cuprins**
 

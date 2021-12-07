@@ -76,7 +76,7 @@ python3 decrypt.py <parola> output input_recuperat.txt
 
 >Primul algoritm
 
-Codul se afla in hack_prima_parte.py
+Codul se afla in hack_prima_parte.py </b>
 Am folosit proprietatea operatiei de xor si am aflat parola facand xor intre input si output, utilizand functia pe care colegii din echipa adversa au realizat-o pentru criptare cu mici modificari. Cum stiam ca parola poate avea maxim 15 caractere, am luat doar primele 15 caractere din rezultat si le-am afisat. Daca parola avea mai putin de 15 caractere, la finalul parolei s-ar fi repetat primele caractere, iar astfel ne putem da seama de parola folosita. </b>
 
 
@@ -84,7 +84,7 @@ Am folosit proprietatea operatiei de xor si am aflat parola facand xor intre inp
 
 Cel de-al doilea algoritm genereaza toate cheile posibile si le testeaza cu un sir de 15 caractere din fisierul output. </b>
 Dupa aceea alege cele mai bune chei, care au cel mai mic numar de caractere decodate gresit, si le salveaza. </b>
-Singurul lucru ramas este sa testam care dintre cheile alese este crea corecta, folosindu-le in algoritmul de decodare si comparand fisierul output cu fisierul input. </b>
+Singurul lucru ramas este sa testam care dintre cheile alese este crea corecta, folosindu-le in algoritmul de decodare si comparand fisierul output cu fisierul input. (cu testele puse la dispozitie de colegii din echipa adversa) </b>
 
 
 # **Cuprins**

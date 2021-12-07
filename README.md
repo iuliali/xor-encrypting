@@ -38,8 +38,8 @@ Parola conține doar: litere mici, litere mari (ambele fără diacritice) și ci
 
 
 ```
-- Talpalariu Iulia-Georgiana  (Grupa 134)  Responsabila pentru cod si git
-- Lem-Rau Dumitru-Alexandru  (Grupa 134)  Responsabil pentru testare si pagina de Readme
+- Talpalariu Iulia-Georgiana  (Grupa 134)  Responsabila pentru cod, testare si git
+- Lem-Rau Dumitru-Alexandru  (Grupa 134)  Responsabil pentru testare, cod si pagina de Readme
 - Andreiana George-Leonardo  (Grupa 134)  Responsabil pentru documentatie si materiale
 ```
 

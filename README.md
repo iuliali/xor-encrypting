@@ -72,6 +72,19 @@ python3 decrypt.py <parola> output input_recuperat.txt
 <b> -> Aceste nume pot fi alese personal, dar fisierul de input trebuie creat in prealabil. </b>
 
 
+# **Explicarea algoritmilor de decodare - partea a doua**
+
+>Primul algoritm
+
+
+
+>Al doilea algoritm
+
+Cel de-al doilea algoritm genereaza toate cheile posibile si le testeaza cu un sir de 15 caractere din fisierul output. </b>
+Dupa aceea alege cele mai bune chei, care au cel mai mic numar de caractere decodate gresit, si le salveaza. </b>
+Singurul lucru ramas este sa testam care dintre cheile alese este crea corecta, folosindu-le in algoritmul de decodare si comparand fisierul output cu fisierul input. </b>
+
+
 # **Cuprins**
 
 ->Cerinta proiectului </br>
